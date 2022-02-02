@@ -1,2 +1,2 @@
 # birthday-react
-List of birthday in react
+List of birthday in reacts
